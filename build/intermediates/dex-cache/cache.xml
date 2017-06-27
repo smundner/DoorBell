@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e86c25b8a4af7281b03d5ff93d639250401a2a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e01f1d5fd18ebd623bf69f3861154747864f7127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a9bf63bcd09b5d53b57ae31623e5ca3e0d6c43a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b728eaaec39e794d52a67078487ef0168bcf5ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e8e95a45b96e52a9340567878df357806e6e8208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e0eca8bc4d89549948db8e811daa6b0ba5a45a18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_72a4f8e61dc5f0f9f428d252c207e43e9370574a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25ea80dea6d78e66f20bc617acbfb89c5163fcac">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7277ae7aec66bcdf29175d77f7bfc3153961a09d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cb77df15d7c9aad46cb12857c583e54894179117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_178ab2924e451b5a98a7fb74f4e3d91df02b9f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_6b67f706580b8bc4285aa2b1120622ff24aa4ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="393bc1a6ba6e7d94443dc31749df2dc54f3eb58b">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_682d97b73b8c896adb830468f6c0c548f1b14b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_4b620665409445383dbfc24df59d2159f7dc6442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c697a5fefddc70c53b0a1ff74ad3f224b695b122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_02bd733a0ca704baa3d61642f5f1570d17810a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_2d77385b735d86c03021728be7306efa1450ff6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_bc126a76bec6ba168bec58e8409de5f3316e6e52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Service\Documents\Android Projekte\DoorBell\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e409bf2299f7166b6d9ec141e21f0fb8ae89549f\classes.dex" />
+    </item>
+
+</items>
